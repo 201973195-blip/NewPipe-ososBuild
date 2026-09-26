@@ -95,8 +95,8 @@
     <string name="best_resolution">أفضل دقة</string>
     <string name="undo">تراجع</string>
     <string name="play_all">تشغيل الكل</string>
-    <string name="notification_channel_name">تنبيهات NewPipe</string>
-    <string name="notification_channel_description">تنبيهات مشغل NewPipe</string>
+    <string name="notification_channel_name">تنبيهات TurboDl</string>
+    <string name="notification_channel_description">تنبيهات مشغل TurboDl</string>
     <string name="unknown_content">[غير معروف]</string>
     <string name="could_not_setup_download_menu">تعذر إعداد قائمة التنزيل</string>
     <string name="app_ui_crash">تعطل التطبيق / واجهة المستخدم</string>
@@ -135,7 +135,7 @@
     <string name="msg_name">اسم الملف</string>
     <string name="msg_threads">التقسيم</string>
     <string name="msg_error">الخطأ</string>
-    <string name="msg_running">يقوم نيوبايب بالتنزيل</string>
+    <string name="msg_running">يقوم TurboDl بالتنزيل</string>
     <string name="msg_running_detail">انقر للحصول على التفاصيل</string>
     <string name="msg_wait">يُرجى الانتظار…</string>
     <string name="msg_copied">تم نسخه إلى الحافظة</string>
@@ -147,7 +147,7 @@
     <string name="settings_file_replacement_character_title">استبدال الحرف</string>
     <string name="charset_letters_and_digits">الحروف والأرقام</string>
     <string name="charset_most_special_characters">معظم الأحرف الخاصة</string>
-    <string name="title_activity_about">حول NewPipe</string>
+    <string name="title_activity_about">حول TurboDl</string>
     <string name="title_licenses">تراخيص الطرف الثالث</string>
     <string name="tab_licenses">التراخيص</string>
     <string name="app_description">بث مباشر خفيف الوزن مجاني على نظام أندرويد.</string>
@@ -342,7 +342,7 @@
     <string name="file_deleted">تم حذف الملف</string>
     <string name="app_update_notification_channel_name">تنبيه تحديث التطبيق</string>
     <string name="events">الأحداث</string>
-    <string name="app_update_notification_channel_description">إشعارات لإصدار NewPipe الجديد</string>
+    <string name="app_update_notification_channel_description">إشعارات لإصدار TurboDl الجديد</string>
     <string name="download_to_sdcard_error_title">وحدة التخزين الخارجية غير متوفرة</string>
     <string name="download_to_sdcard_error_message">لا يمكن التنزيل على بطاقة SD الخارجية. هل تريد إعادة تعيين موقع مجلد التنزيل؟</string>
     <string name="saved_tabs_invalid_json">يتم الان استخدام علامات التبويب الافتراضية بعد حدوث خطأ أثناء قراءة علامات التبويب المحفوظة</string>
@@ -357,7 +357,7 @@
     <string name="list">القائمة</string>
     <string name="grid">الشبكة</string>
     <string name="auto">تلقائي</string>
-    <string name="app_update_available_notification_title">تحديث NewPipe متاح!</string>
+    <string name="app_update_available_notification_title">تحديث TurboDl متاح!</string>
     <string name="missions_header_finished">انتهى</string>
     <string name="missions_header_pending">ريثما</string>
     <string name="paused">متوقف</string>
@@ -698,7 +698,7 @@
     <string name="crash_the_player">تحطيم المشغل</string>
     <string name="error_report_channel_name">إشعار الإبلاغ عن الأخطاء</string>
     <string name="error_report_channel_description">التنبيهات المتعلقة بالإبلاغ عن الأخطاء</string>
-    <string name="error_report_notification_title">واجه NewPipe خطأ، اضغط للتقرير</string>
+    <string name="error_report_notification_title">واجه TurboDl خطأ، اضغط للتقرير</string>
     <string name="error_report_notification_toast">حدث خطأ، انظر للإشعار</string>
     <string name="create_error_notification">قم بإنشاء تنبيه بالخطأ</string>
     <string name="no_appropriate_file_manager_message">لم يتم العثور على مدير ملفات مناسب لهذا الإجراء.
